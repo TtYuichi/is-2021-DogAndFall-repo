@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/bike/SampleScene.unity
+    guid: 85bf436ef0af6d5458bed99c0c8a0450
   m_configObjects: {}
